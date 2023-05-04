@@ -1,0 +1,95 @@
+[33mcommit f411da07308564052e470ceb2cb4f639a167cd9e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Thu May 4 08:42:47 2023 -0300
+
+    Subtotal & Total methods
+
+[33mcommit aa915b5ea8a5759f43e47c69d0ad68f3854ef99d[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Tue May 2 15:09:57 2023 -0300
+
+    Payment, one-to-one association
+
+[33mcommit 1c2d347ef69be5978467aca913f481d2f5d4ec39[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Tue May 2 11:26:10 2023 -0300
+
+    Product-OrderItem one-to-many association
+
+[33mcommit 2734bc49ab90a7673e51cd019b2676570b216d42[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Sun Apr 30 19:49:44 2023 -0300
+
+    OrderItem, many-to-many association with extra attributes PART 2
+
+[33mcommit 75a22933c745f29af348430784de40dde811cab3[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Sun Apr 30 19:20:54 2023 -0300
+
+    OrderItem, many-to-many association with extra attributes PART 1
+
+[33mcommit dc8193c32966c849a0c87fa8b014e38eaccb87fd[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Fri Apr 28 16:45:22 2023 -0300
+
+    Many-to-many association with JoinTable
+
+[33mcommit a5abfbe95a944dca24792055e14b59091c1a8a5e[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Fri Apr 28 16:24:19 2023 -0300
+
+    Product
+
+[33mcommit 2fd22c64685d47e83e71fefe62ce73bc0a9c7353[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Fri Apr 28 15:59:30 2023 -0300
+
+    Category
+
+[33mcommit c432c94e483c4e50babd49396ee576859f8c42d8[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Fri Apr 28 15:14:53 2023 -0300
+
+    "OrderStatus enum"
+
+[33mcommit be4be7aea4ead95ad737ecb6e439cb096847a165[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Fri Apr 28 11:46:44 2023 -0300
+
+    "Order, Instant, ISO 8601 - PART2"
+
+[33mcommit 0bef4d0e77e61d4a70acfc84507d0734b6abc9b4[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Fri Apr 28 11:21:07 2023 -0300
+
+    "Order, Instant, ISO 8601"
+
+[33mcommit 3ba1def0510ca987c482090ac53d46e273812d74[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Thu Apr 27 19:34:20 2023 -0300
+
+    Service layer, component registration
+
+[33mcommit c4df6c1d31d91e8a0e0ec4846219d11d3f9deb47[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Thu Apr 27 18:55:37 2023 -0300
+
+    JPA repository, dependency injection, database seeding
+
+[33mcommit 405860f60628a7cf43bd944b798b430f10d17569[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Thu Apr 27 18:36:21 2023 -0300
+
+    H2 database, test profile, JPA
+
+[33mcommit 80f8e79aeb45de2b498ca3b014813a6387c18ed5[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Thu Apr 27 18:18:17 2023 -0300
+
+    User entity and resource
+
+[33mcommit b382937e9a929529cebe56dd4f00cb44c786528e[m
+Author: Thiago Fratucci de Matos <thi_fm@yahoo.com.br>
+Date:   Thu Apr 27 14:23:35 2023 -0300
+
+    Project created
